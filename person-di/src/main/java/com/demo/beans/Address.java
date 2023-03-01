@@ -1,7 +1,7 @@
-package com.dem.beans;
+package com.demo.beans;
 
 public class Address {
-    private String streetName;
+    private String streetName="Street BuAild Root";
 
     public String getStreetName() {
         return streetName;

@@ -11,6 +11,8 @@
     <modules>
         <module>sample-di</module>
         <module>person-di</module>
+        <module>bean-scope</module>
+        <module>altering-behavior</module>
     </modules>
 
     <properties>
